@@ -1,0 +1,12 @@
+darts
+pandas
+numpy
+matplotlib
+scikit-learn
+yfinance
+statsmodels
+torch
+vaderSentiment
+pmdarima
+pytickersymbols
+requests 
